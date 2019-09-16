@@ -2,7 +2,7 @@
 Simple python web-server to browse files on your machine in local network. 
 Uses Bottle framework as one of the most light-weight frameworks, served with Waitress web-server to be multi-threaded.
 
-Features:
+Features:  
    -open files  
    -open directories  
    -create file, substitute content of the file  
