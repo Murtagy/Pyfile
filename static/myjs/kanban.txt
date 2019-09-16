@@ -1,0 +1,5 @@
+items = document.getElementsByClassName("kanban-item")
+for (let item of items) { 
+    console.log(item.parentElement.parentElement.innerText)
+    console.log(item.innerText)
+}

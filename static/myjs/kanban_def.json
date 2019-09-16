@@ -1,0 +1,37 @@
+[{
+    "id": "_todo",
+    "title": "To Do (Can drop item only in working)",
+    "item": [{
+            "id": "_test_delete",
+            "title": "Try drag this (Look the console)"
+        },
+        {
+            "title": "Try Click This!"
+        }
+    ]
+},
+{
+    "id": "_working",
+    "title": "Working (Try drag me too)",
+    "item": [{
+            "title": "Do Something!"
+        },
+        {
+            "title": "Run?"
+        }
+    ]
+}
+
+, {
+    "id": "_done",
+    "title": "Done (Can drop item only in working)",
+
+    "item": [{
+            "title": "All right"
+        },
+        {
+            "title": "Ok!"
+        }
+    ]
+}
+]
