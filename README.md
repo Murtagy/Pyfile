@@ -19,3 +19,5 @@ My personal use of it was as a UI to inner ETL solution. The ETL-UI part was cut
   I didn't put much effort in security. So you shouldn't put it in web
   (it's vulnerable to coockie stealing/brutforce)
   
+  
+  Run server.py to start!
